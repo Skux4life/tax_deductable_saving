@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tax Deductible Adjusted Cost</string>
+    <string name="calculate_cost">Calculate adjusted cost of a tax deductible purchase</string>
+    <string name="input_label">Purchase cost</string>
+    <string name="reduced_cost">Adjusted cost: %s</string>
+    <string name="income_bracket">Select your income bracket</string>
+
+    <string name="bracket_18200">0 - $18,200</string>
+    <string name="bracket_45000">$18,201 - $45,000</string>
+    <string name="bracket_120000">$45,001 - $120,000</string>
+    <string name="bracket_180000">$120,001 - $180,000</string>
+    <string name="bracket_highest">$180,001+</string>
+</resources>
